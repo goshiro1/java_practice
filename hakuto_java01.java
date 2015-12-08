@@ -2,7 +2,6 @@
 * @author hakutosuzuki
 * @since  2015/12/06
 */
-
 package java_practice;
 
 import java.util.Scanner;
